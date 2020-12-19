@@ -30,7 +30,7 @@ func bookHandler(c echo.Context) error {
 func getBook() *Book {
 	b := &Book{
 		Title: "Golangの本",
-		Author: "Golangの本の著者",
+		Author: "Golangの本の著者修正",
 	}
 	return b
 }
