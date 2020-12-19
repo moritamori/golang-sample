@@ -1,2 +1,4 @@
 .envrc
 golang-sample
+.terraform
+.idea
